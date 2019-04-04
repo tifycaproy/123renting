@@ -1,0 +1,21 @@
+/node_modules
+/public/hot
+/public/storage
+/public/images/comentarios/*
+/public/images/galeria/*
+/public/images/noticias/*
+/public/images/sliders/*
+/storage/*.key
+/vendor
+/.idea
+/.vagrant
+/public/.sass-cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.env
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
